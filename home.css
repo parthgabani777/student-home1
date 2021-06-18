@@ -1,0 +1,13 @@
+.nav-link{
+    margin-right: 2rem;
+    font-size: 1.5rem;
+    /* color: black; */
+}
+.navbar-brand{
+    margin-left: 3rem;
+    font-size: 1.5rem;
+}
+.btn:hover{
+        border: 1px solid #888;
+        background-color: #ddd;
+}

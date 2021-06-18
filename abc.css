@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+  .container{
+    margin-top: 3rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px black;
+    padding: 2rem;
+    height: 32rem;
+    margin-left: 30rem;
+    width: 23rem;
+  }
+  
+  .btn{
+    margin-left: 3rem;
+  }
+  h3{
+    text-align: center;
+  }
+  
